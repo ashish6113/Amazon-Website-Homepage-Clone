@@ -13,7 +13,7 @@
             font-family: Arial, Helvetica, sans-serif;">
         <p style="font-size: 2rem; font-weight: bold; margin-top: 10px;
     margin-bottom: 3px; margin-left: 20px;
-    margin-right: 20px;">This is a Amazon homepage Clone.</p>
+    margin-right: 20px;"> <h2>This is a Amazon homepage Clone.</h2></p>
         <p style="font-size: 1.4rem; margin-left: 20px;
     margin-right: 20px;">Author - Ashish</p>
         <p style="font-size: 1.2rem; margin-top: 10px; margin-bottom: 10px; margin-left: 20px;
