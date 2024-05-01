@@ -23,7 +23,7 @@
             zoom). Just done this project to learn all about css execpt responsiveness. Any error in this look a like
             will be fixed on time.</p>
         <P style="font-size: 1.2rem; margin-top: 10px; margin-bottom: 10px; margin-left: 20px;
-        margin-right: 20px;">If you want to see the clone <a href="https://ashish6113.github.io/Amazon-clone/" style=" color: cornflowerblue;">Click here</a> </P>
+        margin-right: 20px;">If you want to see the clone <a href="https://ashish6113.github.io/Amazon-Website-Homepage-Clone/" style=" color: cornflowerblue;">Click here</a> </P>
     </div>
 </body>
 
