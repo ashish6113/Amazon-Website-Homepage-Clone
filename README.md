@@ -4,19 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        * {
-            padding: 0;
-            margin: 0;
-            margin: auto;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-    </style>
 </head>
 
 <body>
-    <div class="all">
+    <div class="all" style="padding: 0;
+            margin: 0;
+            margin: auto;
+            font-family: Arial, Helvetica, sans-serif;">
         <p style="font-size: 2rem; font-weight: bold; margin-top: 10px;
     margin-bottom: 3px; margin-left: 20px;
     margin-right: 20px;">This is a Amazon homepage Clone.</p>
